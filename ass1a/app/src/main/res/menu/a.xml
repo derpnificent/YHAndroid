@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".a" >
+    <item android:id="@+id/action_random"
+        android:title="@string/menu_random"
+        android:orderInCategory="100"
+        android:showAsAction="never" />
+    <item android:id="@+id/action_changeColor"
+         android:title="@string/menu_colorz"
+         android:orderInCategory="200"
+         android:showAsAction="never" />
+
+</menu>

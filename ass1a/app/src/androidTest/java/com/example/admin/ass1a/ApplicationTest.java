@@ -1,4 +1,4 @@
-package com.example.admin.helloworld;
+package com.example.admin.ass1a;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

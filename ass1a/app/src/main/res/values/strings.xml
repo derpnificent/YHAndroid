@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ass1a</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_contact">Add Contact</string>
+    <string name="menu_random">Random Number</string>
+    <string name="menu_colorz">Background</string>
+    <string name="title_activity_b">b</string>
+    <string name="title_activity_c">c</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
