@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">ass1a</string>
+    <string name="app_name">Add Contact</string>
     <string name="hello_world">Hello world!</string>
     <string name="menu_contact">Add Contact</string>
     <string name="menu_random">Random Number</string>
     <string name="menu_colorz">Background</string>
-    <string name="title_activity_b">b</string>
-    <string name="title_activity_c">c</string>
+    <string name="title_activity_b">Random Number</string>
+    <string name="title_activity_c">Change Background Color</string>
     <string name="action_settings">Settings</string>
-
+    <string name="success">Contact is successfully added</string>
+    <string name="ButtonBlack">Black</string>
+    <string name="ButtonGrey">Grey</string>
+    <string name="ButtonGreen">Green</string>
+    <string name="ButtonRandom">Random</string>
 </resources>
