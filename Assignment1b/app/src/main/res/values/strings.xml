@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Assignment 1b</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- Textviews names -->
+    <string name="textVBillLabel">Bill</string>
+    <string name="textVTipLabel">Tip (%)</string>
+    <string name="textVTotalLabel">Total</string>
+    <string name="textVTip">15</string>
+    <string name="textVTotal">0</string>
+    <string name="textVTipBar">Tip Bar</string>
+    <string name="textVAvailability">Availability</string>
+    <string name="textVIntroduction">Introduction</string>
+    <string name="textVProblemSolving">Problem Solving Skills</string>
+    <string name="textVTimeSpentWaiting">Time Spent Waiting</string>
+
+    <!-- RadioButton names -->
+    <string name="radioBGood">Good</string>
+    <string name="radioBOK">OK</string>
+    <string name="radioBBad">Bad</string>
+
+    <!-- CheckBoxes names -->
+    <string name="checkBFriendly">Friendly</string>
+    <string name="checkBSpecials">Specials</string>
+    <string name="checkBOpinion">Opinion</string>
+
+    <!-- Chronometer name -->
+    <string name="cmText">00</string>
+
+    <!-- Reduced Tip Toast Message -->
+    <string name="tipReducedMsg">Tip reduced for slow service </string>
+
+    <!-- Wait Timer Spinner Options names -->
+    <string-array name="spinner_problemSolv">
+        <item>OK</item>
+        <item>Good</item>
+        <item>Bad</item>
+    </string-array>
+
+</resources>
