@@ -7,11 +7,11 @@
 
     <!-- Textviews names -->
     <string name="textVBillLabel">Bill</string>
-    <string name="textVTipLabel">Tip (%)</string>
-    <string name="textVTotalLabel">Total</string>
+    <string name="textVTipLabel">Tip</string>
+    <string name="textVTotalLabel">Final Bill</string>
     <string name="textVTip">15</string>
     <string name="textVTotal">0</string>
-    <string name="textVTipBar">Tip Bar</string>
+    <string name="textVTipBar">Change Tip</string>
     <string name="textVAvailability">Availability</string>
     <string name="textVIntroduction">Introduction</string>
     <string name="textVProblemSolving">Problem Solving Skills</string>
