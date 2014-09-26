@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.admin.assignment2b.Activities.AddContact" >
+    <item android:id="@+id/action_cancelAdd"
+        android:title="@string/action_cancelAdd"
+        android:orderInCategory="100"
+        android:showAsAction="always" />
+</menu>

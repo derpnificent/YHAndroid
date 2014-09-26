@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">assignment2b</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="add_contact">ADD</string>
+    <string name="action_cancelAdd">Cancel</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_contact_profile">ContactProfile</string>
+    <string name="title_activity_add_contact">AddContact</string>
+    <string name="add_contact_text">Add Contact</string>
+
+</resources>
